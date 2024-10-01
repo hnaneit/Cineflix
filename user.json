@@ -1,0 +1,80 @@
+{
+  "user": [
+    {
+      "id": "2",
+      "username": "tien anh",
+      "password": "Tienanh23@123",
+      "email": "tienanh@gmail.com",
+      "avata": "",
+      "yeuthich": [
+        {
+          "id": "1",
+          "name": "Anh Hùng Phản Hắc",
+          "sulgname": "anh-hung-phan-hac",
+          "thumb_url": "https://img.phimapi.com/upload/vod/20240714-1/92dc8a67a51ab3708df5a66c90a4dbb5.jpg"
+        }
+      ],
+      "lichsu": [
+        {
+          "id": "2",
+          "name": "Anh Hùng Phản Hắc",
+          "sulgname": "anh-hung-phan-hac",
+          "thumb_url": "https://img.phimapi.com/upload/vod/20240714-1/92dc8a67a51ab3708df5a66c90a4dbb5.jpg",
+          "tap": "2"
+        }
+      ],
+      "timkiem": [],
+      "yeuThich": [
+        {
+          "id": "1",
+          "name": "Anh Hùng Phản Hắc",
+          "sulgname": "anh-hung-phan-hac",
+          "thumb_url": "https://img.phimapi.com/upload/vod/20240714-1/92dc8a67a51ab3708df5a66c90a4dbb5.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "username": "test",
+      "password": "Test123@",
+      "email": "test@gmail.com",
+      "avata": "",
+      "yeuthich": [
+        {
+          "id": "1",
+          "name": "Anh Hùng Phản Hắc",
+          "sulgname": "anh-hung-phan-hac",
+          "thumb_url": "https://img.phimapi.com/upload/vod/20240714-1/92dc8a67a51ab3708df5a66c90a4dbb5.jpg"
+        }
+      ],
+      "lichsu": [],
+      "timkiem": [],
+      "yeuThich": [
+        {
+          "id": "1",
+          "name": "Anh Hùng Phản Hắc",
+          "sulgname": "anh-hung-phan-hac",
+          "thumb_url": "https://img.phimapi.com/upload/vod/20240714-1/92dc8a67a51ab3708df5a66c90a4dbb5.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "username": "tien anh",
+      "password": "tienanh23T@",
+      "email": "tienanh2003@gmail.com",
+      "avata": "",
+      "yeuthich": [],
+      "lichsu": [],
+      "timkiem": [],
+      "yeuThich": [
+        {
+          "id": "1",
+          "name": "Vây Hãm: Kẻ Trừng Phạt",
+          "sulgname": "vay-ham-ke-trung-phat",
+          "thumb_url": "https://img.phimapi.com/upload/vod/20240710-1/0690edbe38012e24ee89c0a3b26561ba.jpg"
+        }
+      ]
+    }
+  ]
+}
